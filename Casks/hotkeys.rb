@@ -2,8 +2,8 @@
 #   brew install --cask hotkeys-app/tap/hotkeys
 # On every release set version and sha256, Util/build-full.sh prints the checksum
 cask "hotkeys" do
-  version "20260921"
-  sha256 "240b26c4ccaee6abd9d301f4273db61020899931497c9c8db29e85429bd62274"
+  version "20260924"
+  sha256 "7989d7cd0d2ca069c6ad3b54a10fd2e3197d073fc32ef28d513c0adbb23a5b9b"
 
   url "https://www.hotkeys.io/updates/Hotkeys-#{version}.dmg"
   name "Hotkeys"
